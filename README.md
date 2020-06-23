@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/INJANGAMS/INJANGAMS/_apis/build/status/Savitri1403.ContosoAir?branchName=master)](https://dev.azure.com/INJANGAMS/INJANGAMS/_build/latest?definitionId=1&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
